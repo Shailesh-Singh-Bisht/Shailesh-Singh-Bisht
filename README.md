@@ -1,5 +1,43 @@
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
-<h3 align="center">## 🎮 Shailesh Singh Bisht | Aspiring Game Developer ### Mastering C#, C/C++, and DSA | Crafting Immersive Worlds with Passion 🌟 Greetings! I'm Shailesh, a dedicated student with a profound passion for game development. I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the gaming industry. ### SkillSet in Development While pursuing my education, I've built a solid foundation in various technologies: - **Game Development**: Diving into C#, C/C++, and Data Structures & Algorithms with a focus on game engine programming. - **Inspiration**: Drawing from games like Red Dead Redemption, The Elder Scrolls, and Fallout, I'm exploring the creation of immersive 3D and 2D experiences, with an emphasis on gameplay mechanics, quest design, and storytelling in fantasy and sci-fi realms. ### Current Activities - Engaged in game development tutorials and personal projects. - Seeking hands-on experience in crafting captivating gaming adventures. - Committed to continuous self-improvement, embracing new knowledge and feedback. ### Interests Beyond tech, I'm an enthusiast of cinema and storytelling, inspired by classics like old Westerns and The Lord of the Rings trilogy. ### Exploring Opportunities I'm keen to connect with industry professionals, fellow students, and mentors who share my passion for gaming and technology. Let's collaborate and bring captivating digital worlds to life! --- 📽️ **Columnist** | **Movies & Stories Enthusiast** | **Technology Advocate** Channeling my passion for movies and stories into columns that explore the intersection of technology and storytelling, advocating for the transformative power of narratives in shaping our digital landscapes.</h3>
+<h3 align="center">🎮 Aspiring Game Developer</h3>
+<p align="center">
+  Mastering C#, C/C++, and DSA | Crafting Immersive Worlds with Passion 🌟
+</p>
+<p>
+  Greetings! I'm Shailesh, a dedicated student with a profound passion for game development.
+  I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the gaming industry.
+</p>
+<h3>SkillSet in Development</h3>
+<p>
+  While pursuing my education, I've built a solid foundation in various technologies:
+  <ul>
+    <li><strong>Game Development</strong>: Diving into C#, C/C++, and Data Structures & Algorithms with a focus on game engine programming.</li>
+    <li><strong>Inspiration</strong>: Drawing from games like Red Dead Redemption, The Elder Scrolls, and Fallout, I'm exploring the creation of immersive 3D and 2D experiences, with an emphasis on gameplay mechanics, quest design, and storytelling in fantasy and sci-fi realms.</li>
+  </ul>
+</p>
+<h3>Current Activities</h3>
+<p>
+  <ul>
+    <li>Engaged in game development tutorials and personal projects.</li>
+    <li>Seeking hands-on experience in crafting captivating gaming adventures.</li>
+    <li>Committed to continuous self-improvement, embracing new knowledge and feedback.</li>
+  </ul>
+</p>
+<h3>Interests</h3>
+<p>
+  Beyond tech, I'm an enthusiast of cinema and storytelling, inspired by classics like old Westerns and The Lord of the Rings trilogy.
+</p>
+<h3>Exploring Opportunities</h3>
+<p>
+  I'm keen to connect with industry professionals, fellow students, and mentors who share my passion for gaming and technology.
+  Let's collaborate and bring captivating digital worlds to life!
+</p>
+<hr>
+<p>
+  📽️ <strong>Columnist</strong> | <strong>Movies & Stories Enthusiast</strong> | <strong>Technology Advocate</strong><br>
+  Channeling my passion for movies and stories into columns that explore the intersection of technology and storytelling, advocating for the transformative power of narratives in shaping our digital landscapes.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh-singh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh-singh-bisht" /> </p>
 
