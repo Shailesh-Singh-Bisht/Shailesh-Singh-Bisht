@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
-<h3 align="center">🎮 Aspiring Game Developer</h3>
+<h3 align="center">🎮 Aspiring Game & Software Developer</h3>
 <p align="center">
   Mastering C#, C/C++, and DSA | Crafting Immersive Worlds with Passion 🌟
 </p>
 <p>
-  Greetings! I'm Shailesh, a dedicated student with a profound passion for game development.
-  I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the gaming industry.
+  Greetings! I'm Shailesh, a dedicated student with a profound passion for game and software development.
+  I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the tech industry.
 </p>
 <h3>SkillSet in Development</h3>
 <p>
   While pursuing my education, I've built a solid foundation in various technologies:
   <ul>
     <li><strong>Game Development</strong>: Diving into C#, C/C++, and Data Structures & Algorithms with a focus on game engine programming.</li>
+    <li><strong>Software Development</strong>: Exploring languages like Python and frameworks like .NET for building applications and systems.</li>
     <li><strong>Inspiration</strong>: Drawing from games like Red Dead Redemption, The Elder Scrolls, and Fallout, I'm exploring the creation of immersive 3D and 2D experiences, with an emphasis on gameplay mechanics, quest design, and storytelling in fantasy and sci-fi realms.</li>
   </ul>
 </p>
@@ -19,7 +20,8 @@
 <p>
   <ul>
     <li>Engaged in game development tutorials and personal projects.</li>
-    <li>Seeking hands-on experience in crafting captivating gaming adventures.</li>
+    <li>Learning software development practices and frameworks.</li>
+    <li>Seeking hands-on experience in crafting captivating gaming adventures and robust software solutions.</li>
     <li>Committed to continuous self-improvement, embracing new knowledge and feedback.</li>
   </ul>
 </p>
@@ -30,14 +32,13 @@
 <h3>Exploring Opportunities</h3>
 <p>
   I'm keen to connect with industry professionals, fellow students, and mentors who share my passion for gaming and technology.
-  Let's collaborate and bring captivating digital worlds to life!
+  Let's collaborate and bring captivating digital worlds and efficient software solutions to life!
 </p>
 <hr>
 <p>
   📽️ <strong>Columnist</strong> | <strong>Movies & Stories Enthusiast</strong> | <strong>Technology Advocate</strong><br>
   Channeling my passion for movies and stories into columns that explore the intersection of technology and storytelling, advocating for the transformative power of narratives in shaping our digital landscapes.
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh-singh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh-singh-bisht" /> </p>
 
@@ -57,7 +58,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="shailesh-singh-bisht" /></p>
 
