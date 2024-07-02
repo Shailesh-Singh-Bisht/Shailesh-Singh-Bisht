@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
 <h3 align="center">🎮 Aspiring Game & UI Developer</h3>
 <p align="center">
-  Mastering C/C++ and DSA | Crafting Immersive Worlds with Passion 🌟
+  Mastering C/C++, DSA, and Godot 4 | Crafting Immersive Worlds with Passion 🌟
 </p>
 <p>
   Greetings! I'm Shailesh, a dedicated student with a profound passion for game and UI development. I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the tech industry.
@@ -10,7 +10,7 @@
 <p>
   While pursuing my education, I've built a solid foundation in various technologies:
   <ul>
-    <li><strong>Game Development</strong>: Diving into C/C++ and Data Structures & Algorithms with a focus on mastering game engine programming.</li>
+    <li><strong>Game Development</strong>: Diving into C/C++, Data Structures & Algorithms, and Godot 4 with a focus on mastering game engine programming.</li>
     <li><strong>UI Development</strong>: Advancing skills in creating intuitive interfaces that enhance user experiences in both games and applications.</li>
     <li><strong>Inspiration</strong>: Drawing from games like Red Dead Redemption, The Elder Scrolls, and Fallout, I'm exploring the creation of immersive 3D and 2D experiences, with an emphasis on gameplay mechanics, quest design, and storytelling in fantasy and sci-fi realms.</li>
   </ul>
@@ -41,7 +41,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh-singh-bisht" alt="shailesh-singh-bisht" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++ DSA**
+- 🌱 I’m currently learning **C/C++, DSA, and Godot 4**
 
 - 📫 How to reach me **shaileshsinghbisht0411@gmail.com**
 
@@ -63,6 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot4" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="shailesh-singh-bisht" /></p>
