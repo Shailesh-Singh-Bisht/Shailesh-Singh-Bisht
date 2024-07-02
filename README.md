@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
-<h3 align="center">🎮 Aspiring Game & Software Developer</h3>
+<h3 align="center">🎮 Aspiring Game & UI Developer</h3>
 <p align="center">
   Mastering C/C++ and DSA | Crafting Immersive Worlds with Passion 🌟
 </p>
 <p>
-  Greetings! I'm Shailesh, a dedicated student with a profound passion for game and software development.
-  I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the tech industry.
+  Greetings! I'm Shailesh, a dedicated student with a profound passion for game and UI development. I'm on a journey to innovate and create, committed to refining my skills to make a meaningful impact in the tech industry.
 </p>
 <h3>SkillSet in Development</h3>
 <p>
   While pursuing my education, I've built a solid foundation in various technologies:
   <ul>
-    <li><strong>Game Development</strong>: Diving into C/C++ and Data Structures & Algorithms with a focus on game engine programming.</li>
-    <li><strong>Software Development</strong>: Exploring languages and frameworks for building applications and systems.</li>
+    <li><strong>Game Development</strong>: Diving into C/C++ and Data Structures & Algorithms with a focus on mastering game engine programming.</li>
+    <li><strong>UI Development</strong>: Advancing skills in creating intuitive interfaces that enhance user experiences in both games and applications.</li>
     <li><strong>Inspiration</strong>: Drawing from games like Red Dead Redemption, The Elder Scrolls, and Fallout, I'm exploring the creation of immersive 3D and 2D experiences, with an emphasis on gameplay mechanics, quest design, and storytelling in fantasy and sci-fi realms.</li>
   </ul>
 </p>
 <h3>Current Activities</h3>
 <p>
   <ul>
-    <li>Engaged in game development tutorials and personal projects.</li>
-    <li>Learning software development practices and frameworks.</li>
-    <li>Seeking hands-on experience in crafting captivating gaming adventures and robust software solutions.</li>
+    <li>Engaged in game development tutorials, UI design projects, and personal endeavors.</li>
+    <li>Seeking hands-on experience in crafting captivating gaming adventures and user-friendly interfaces.</li>
     <li>Committed to continuous self-improvement, embracing new knowledge and feedback.</li>
   </ul>
 </p>
@@ -31,8 +29,7 @@
 </p>
 <h3>Exploring Opportunities</h3>
 <p>
-  I'm keen to connect with industry professionals, fellow students, and mentors who share my passion for gaming and technology.
-  Let's collaborate and bring captivating digital worlds and efficient software solutions to life!
+  I'm keen to connect with industry professionals, fellow students, and mentors who share my passion for gaming, UI/UX design, and technology. Let's collaborate and bring captivating digital worlds and efficient user interfaces to life!
 </p>
 <hr>
 <p>
@@ -64,7 +61,8 @@
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
+  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="shailesh-singh-bisht" /></p>
