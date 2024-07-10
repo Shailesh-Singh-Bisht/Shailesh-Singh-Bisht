@@ -70,9 +70,6 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot 4" width="40" height="40"/> 
   </a>
-  <a href="https://www.avid.com/pro-tools" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ffmpeg/ffmpeg-original.svg" alt="Media Encoding" width="40" height="40"/> 
-  </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="shailesh-singh-bisht" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&locale=en" alt="shailesh-singh-bisht" /></p>
