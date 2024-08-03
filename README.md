@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
 <h3 align="center">Aspiring Game Developer & Frontend Developer | Mastering C/C++, DSA, and Web Technologies | Crafting Immersive Worlds with Passion 🌟</h3>
 
+<p align="center">
+  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Game%20Development%20(2).png?raw=true" alt="Shailesh Singh Bisht" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh-singh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh-singh-bisht" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh-singh-bisht" alt="shailesh-singh-bisht" /></a> </p>
