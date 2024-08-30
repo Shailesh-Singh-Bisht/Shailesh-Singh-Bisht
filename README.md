@@ -35,7 +35,7 @@ I am keen to connect with industry professionals, fellow students, and mentors w
 
 Channeling my passion for movies and stories into captivating columns that explore the intersection of technology and storytelling. Advocating for the transformative power of narratives in shaping our digital landscapes.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript **
 - 📫 How to reach me **shaileshsinghbisht0411@gmail.com**
 - ⚡ Fun fact **I am a great writer, I know.**
 
