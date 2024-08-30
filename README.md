@@ -1,3 +1,7 @@
+Here’s the updated version of your introduction with the addition of your current learning focus:
+
+---
+
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
 <h3 align="center">Aspiring Game Developer & Full Stack Web Developer | Mastering C/C++, DSA, and Web Technologies | Crafting Immersive Worlds with Passion 🌟</h3>
 
@@ -35,7 +39,7 @@ I am keen to connect with industry professionals, fellow students, and mentors w
 
 Channeling my passion for movies and stories into captivating columns that explore the intersection of technology and storytelling. Advocating for the transformative power of narratives in shaping our digital landscapes.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript **
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Full Stack Web Development**
 - 📫 How to reach me **shaileshsinghbisht0411@gmail.com**
 - ⚡ Fun fact **I am a great writer, I know.**
 
@@ -56,3 +60,7 @@ Channeling my passion for movies and stories into captivating columns that explo
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="shailesh-singh-bisht" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&locale=en" alt="shailesh-singh-bisht" /></p>
+
+---
+
+Feel free to make any more adjustments!
