@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
-<h3 align="center">Aspiring Game Developer & Frontend Developer | Mastering C/C++, DSA, and Web Technologies | Crafting Immersive Worlds with Passion 🌟</h3>
+<h3 align="center">Aspiring Game Developer & Full Stack Web Developer | Mastering C/C++, DSA, and Web Technologies | Crafting Immersive Worlds with Passion 🌟</h3>
 
 <p align="center">
   <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Game%20Development%20(2).png?raw=true" alt="Shailesh Singh Bisht" />
@@ -11,17 +11,17 @@
 
 ### Greetings!
 
-I'm Shailesh Singh Bisht, a dedicated student driven by a profound passion for game development and frontend web development. I am eager to embark on a journey of innovation and creativity, committed to refining my skills to make a meaningful impact in the gaming and software industries.
+I'm Shailesh Singh Bisht, a dedicated student driven by a profound passion for game development and full stack web development. I am eager to embark on a journey of innovation and creativity, committed to refining my skills to make a meaningful impact in the gaming and software industries.
 
 #### 🎯 Skill Set in Development
 
-While I am still pursuing my education, my journey in game development and frontend web development has endowed me with a solid foundation in various technologies:
+While I am still pursuing my education, my journey in game development and full stack web development has endowed me with a solid foundation in various technologies:
 
 - **Game Development**: I am currently diving into the intricacies of C/C++, and Data Structures & Algorithms, with a keen focus on mastering game engine programming using Godot 4. Drawing inspiration from captivating games like Red Dead Redemption, The Elder Scrolls, and the Fallout series, I am eager to explore the creation of immersive 3D and 2D gaming experiences, with a strong emphasis on gameplay mechanics, quest designing, and storytelling in fantasy and sci-fi realms.
 
-- **Frontend Web Development**: In parallel, I am advancing my skills in frontend web development, focusing on HTML, CSS, and JavaScript to create engaging and responsive web applications. From designing intuitive interfaces to integrating interactive elements, I am committed to delivering seamless user experiences.
+- **Full Stack Web Development**: I am advancing my skills in full stack web development, including HTML, CSS, JavaScript, and React to create engaging and responsive web applications. My roadmap also covers Git, Svelte, Node.js, Express.js, Passport.js, SQL, and DevOps practices. From designing intuitive interfaces to building dynamic backend solutions, I am committed to delivering comprehensive and seamless user experiences.
 
-I am actively engaged in game development tutorials, personal projects, and seeking hands-on experience in crafting captivating gaming adventures and practical web solutions. I am committed to continuous self-improvement, eagerly seeking out new knowledge and embracing feedback to refine my skills and broaden my horizons.
+I am actively engaged in tutorials, personal projects, and seeking hands-on experience in crafting captivating gaming adventures and practical web solutions. I am committed to continuous self-improvement, eagerly seeking out new knowledge and embracing feedback to refine my skills and broaden my horizons.
 
 #### Beyond the Tech World
 
