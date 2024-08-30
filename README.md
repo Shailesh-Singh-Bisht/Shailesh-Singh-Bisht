@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Game Developer & Full Stack Web Developer | Mastering C/C++, DSA, and Web Technologies | Crafting Immersive Worlds with Passion 🌟</h3>
 
 <p align="center">
-  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Game%20Development%20(2).png?raw=true" alt="Shailesh Singh Bisht" />
+  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Copy%20of%20Game%20Development.png" alt="Shailesh Singh Bisht" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh-singh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh-singh-bisht" /> </p>
