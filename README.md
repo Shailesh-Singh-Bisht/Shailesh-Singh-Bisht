@@ -11,33 +11,33 @@
 
 ### Greetings!
 
-I'm Shailesh Singh Bisht, a dedicated student driven by a profound passion for game development and full stack web development. I am eager to embark on a journey of innovation and creativity, committed to refining my skills to make a meaningful impact in the gaming and software industries.
+I'm Shailesh Singh Bisht, a dedicated student with a deep passion for both game development and full stack web development. I am committed to honing my skills to make a meaningful impact in the gaming and software industries, and am eager to embark on a journey of innovation and creativity.
 
-#### 🎯 Skill Set in Development
+#### 🎯 **Skill Set in Development**:
 
 While I am still pursuing my education, my journey in game development and full stack web development has endowed me with a solid foundation in various technologies:
 
-- **Game Development**: I am currently diving into the intricacies of C/C++, and Data Structures & Algorithms, with a keen focus on mastering game engine programming using Godot 4. Drawing inspiration from captivating games like Red Dead Redemption, The Elder Scrolls, and the Fallout series, I am eager to explore the creation of immersive 3D and 2D gaming experiences, with a strong emphasis on gameplay mechanics, quest designing, and storytelling in fantasy and sci-fi realms.
+- **Game Development**: I specialize in **C/C++**, **Data Structures & Algorithms**, and game engine programming with tools like **Godot 4** and **Unity**. Inspired by captivating games like *Red Dead Redemption*, *The Elder Scrolls*, and *Bioshock*, I am focused on creating immersive 3D and 2D gaming experiences, emphasizing gameplay mechanics, quest design, and storytelling in fantasy and sci-fi realms.
 
-- **Full Stack Web Development**: I am advancing my skills in full stack web development, including HTML, CSS, JavaScript, and React to create engaging and responsive web applications. My roadmap also covers Git, Svelte, Node.js, Express.js, Passport.js, SQL, and DevOps practices. From designing intuitive interfaces to building dynamic backend solutions, I am committed to delivering comprehensive and seamless user experiences.
+- **Full Stack Web Development**: I am enhancing my skills in **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, **Git**, **Node.js**, **Express.js**, and **MongoDB**. I am passionate about developing dynamic, responsive web applications, building intuitive user interfaces, and crafting robust backend solutions to deliver seamless and engaging user experiences.
 
 I am actively engaged in tutorials, personal projects, and seeking hands-on experience in crafting captivating gaming adventures and practical web solutions. I am committed to continuous self-improvement, eagerly seeking out new knowledge and embracing feedback to refine my skills and broaden my horizons.
 
-#### Beyond the Tech World
+#### 📚 **Current Learning Focus**:  
+I am actively refining my expertise in **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**, while also exploring full stack web development to create interactive, high-performance web applications.
 
-Beyond the tech world, I am an ardent enthusiast of cinema and storytelling, drawing inspiration from classics like old Westerns and The Lord of the Rings trilogy.
+#### 🎬 **Beyond the Tech World**:  
+Outside of development, I am an avid cinema and storytelling enthusiast. Drawing inspiration from classics like *Old Westerns* and *The Lord of the Rings* trilogy, I explore how storytelling intersects with technology, shaping our digital experiences and how narratives can enhance the world we create.
 
-#### 🔍 Exploring Opportunities
+#### 🔍 **Exploring Opportunities**:  
+I am eager to connect with industry professionals, fellow students, and mentors who share my enthusiasm for gaming, web development, and technology. Let’s collaborate and explore how we can bring captivating digital worlds to life. Feel free to reach out—I’m excited to work together on innovative projects!
 
-I am keen to connect with industry professionals, fellow students, and mentors who share my passion for gaming, web development, and technology. Let's collaborate and explore how we can bring captivating digital worlds to life! Feel free to reach out, and let's create something remarkable together.
-
-#### 📽️ Columnist | Movies & Stories Enthusiast | Technology Advocate
-
-Channeling my passion for movies and stories into captivating columns that explore the intersection of technology and storytelling. Advocating for the transformative power of narratives in shaping our digital landscapes.
+#### 📽️ **Columnist | Movies & Stories Enthusiast | Technology Advocate**  
+Channeling my passion for movies and storytelling into engaging columns, I explore the intersection of technology and narratives, advocating for the transformative role of storytelling in shaping our digital future.
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and Full Stack Web Development**
 - 📫 How to reach me **shaileshsinghbisht0411@gmail.com**
-- ⚡ Fun fact **I am a great writer, I know.**
+- ⚡ Fun fact: **I am a great writer, I know.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
