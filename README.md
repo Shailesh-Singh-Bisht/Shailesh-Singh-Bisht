@@ -103,10 +103,13 @@ Feel free to **reach out**—I’d love to exchange ideas and create something a
 ---
 
 ## 📊 **GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
