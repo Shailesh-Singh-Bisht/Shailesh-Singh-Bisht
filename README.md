@@ -83,6 +83,12 @@ I explore the **intersection of AI, technology, and storytelling**, advocating f
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://reactrouter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Router" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
@@ -95,10 +101,26 @@ I explore the **intersection of AI, technology, and storytelling**, advocating f
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a> 
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a> 
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> 
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" width="40" height="40"/>
+  </a> 
+  <a href="https://github.com/ultralytics/ultralytics" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Ultralytics_YOLO_Logo.png" alt="YOLOv8" width="40" height="40"/>
+  </a> 
+  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Tkinter.png" alt="Tkinter" width="40" height="40"/>
+  </a> 
 </p>
+
 
 ---
 
