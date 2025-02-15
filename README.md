@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shailesh Singh Bisht</h1>
+<h1 align="center">🎯 Hi 👋, I'm Shailesh Singh Bisht</h1>
+
 <h3 align="center">
-Aspiring Game Developer & Full Stack Web Developer | Mastering C/C++, DSA, and Web Technologies | 
-Crafting Immersive Worlds with Passion 🌟
+Aspiring ML & CV Engineer | Full Stack Web Developer | Innovating with AI & Web Technologies
 </h3>
 
 <p align="center">
@@ -12,55 +12,55 @@ Crafting Immersive Worlds with Passion 🌟
   <img src="https://komarev.com/ghpvc/?username=shailesh-singh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shailesh-singh-bisht" alt="GitHub Trophies" />
-  </a>
-</p>
+---
+
+## 🚀 **About Me**
+Greetings! I'm **Shailesh Singh Bisht**, a dedicated student passionate about **Machine Learning, Computer Vision, and Full Stack Web Development**.  
+I am committed to honing my skills to make a meaningful impact in the AI and software industries, constantly exploring **innovation and creativity**.
 
 ---
 
-## 👋 **About Me**
+## 💡 **Skill Set in Development**
 
-I'm **Shailesh Singh Bisht**, a dedicated **game development** and **full-stack web development** enthusiast. Passionate about crafting digital experiences, I blend **technical expertise** with **creative storytelling** to build immersive gaming worlds and dynamic web applications.
-
-Currently pursuing **B.Tech in Computer Science**, I am continuously learning and working on projects to enhance my skill set. My journey is fueled by a deep interest in **problem-solving, game mechanics, and intuitive web design**.
-
----
-
-## 🚀 **My Skill Set**
-
-### 🎮 **Game Development**
-- Proficient in **C/C++**, **Data Structures & Algorithms** (DSA), and **game engine programming**.
-- Experience with **Godot 4** and **Unity**, focusing on **gameplay mechanics, quest design, and storytelling**.
-- Inspired by titles like *Red Dead Redemption*, *The Elder Scrolls*, and *Bioshock*.
+### 🧠 **Machine Learning & Computer Vision**
+- **Specialized in:** Python, ML algorithms, YOLOv8, NumPy, scikit-learn, and deep learning techniques.
+- **Focused on:** Image processing, object detection, and predictive analytics.
+- Applying AI to real-world challenges in **automation, healthcare, and beyond**.
 
 ### 🌐 **Full-Stack Web Development**
-- **Frontend:** HTML, CSS, JavaScript, ReactJS  
-- **Backend:** Node.js, Express.js, MongoDB  
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js  
+- **Backend:** Node.js, Express.js, MySQL, MongoDB  
 - **Tools & Version Control:** Git, GitHub  
 
-I love developing **scalable, user-friendly applications** that deliver seamless experiences.
+I love building **interactive, high-performance web applications** with seamless front-end experiences and **scalable** back-end solutions.
 
 ---
 
 ## 📚 **Current Learning Focus**
-- Mastering **React.js** and **Next.js** for modern frontend development.
-- Strengthening **backend skills** with **Express.js** and **MongoDB**.
-- Exploring best practices in **web performance optimization**.
+- Refining expertise in **Node.js, Express.js, and Next.js**.  
+- Exploring **advanced ML techniques, model deployment, and AI-powered web applications**.
 
 ---
 
-## 🎬 **Beyond Code**
-Outside of development, I'm passionate about **movies, storytelling, and world-building**.  
-I draw inspiration from **Old Westerns** and *The Lord of the Rings* trilogy, fascinated by how narratives shape immersive digital experiences.
+## 🎬 **Beyond the Tech World**
+Outside of development, I am an avid **cinema and storytelling enthusiast**.  
+Inspired by classics like **Old Westerns** and *The Lord of the Rings*, I explore how **narratives influence technology** and shape digital experiences.
 
 ---
 
-## 🔍 **Let's Connect!**
-I am actively looking for **collaborations, mentorship, and exciting projects**.  
-Feel free to **reach out**—I’d love to exchange ideas and create something amazing together!
+## 🔍 **Exploring Opportunities**
+I am eager to connect with **industry professionals, AI researchers, and developers** who share my enthusiasm for **machine learning, web development, and AI-driven applications**.  
+Let’s collaborate and build **transformative solutions** together!
 
+---
+
+## 📽️ **Columnist | Movies & Stories Enthusiast | Technology Advocate**
+Channeling my passion for movies and storytelling into engaging columns,  
+I explore the **intersection of AI, technology, and storytelling**, advocating for the **future of intelligent digital experiences**.
+
+---
+
+## 🔗 **Let's Connect!**
 📫 **Email:** shaileshsinghbisht0411@gmail.com  
 
 ### 🌎 **Find me on:**
