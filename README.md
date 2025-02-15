@@ -113,12 +113,6 @@ I explore the **intersection of AI, technology, and storytelling**, advocating f
   <a href="https://opencv.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" width="40" height="40"/>
   </a> 
-  <a href="https://github.com/ultralytics/ultralytics" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Ultralytics_YOLO_Logo.png" alt="YOLOv8" width="40" height="40"/>
-  </a> 
-  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Tkinter.png" alt="Tkinter" width="40" height="40"/>
-  </a> 
 </p>
 
 
