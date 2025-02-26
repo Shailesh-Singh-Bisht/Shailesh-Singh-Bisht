@@ -1,7 +1,7 @@
 <h1 align="center">🎯 Hi 👋, I'm Shailesh Singh Bisht</h1>
 
 <h3 align="center">
-Aspiring ML & CV Engineer | Full Stack Web Developer | Innovating with AI & Web Technologies
+Full Stack Web Developer | UI/UX Enthusiast | Innovating with Modern Web Technologies
 </h3>
 
 <p align="center">
@@ -15,48 +15,49 @@ Aspiring ML & CV Engineer | Full Stack Web Developer | Innovating with AI & Web 
 ---
 
 ## 🚀 **About Me**
-Greetings! I'm **Shailesh Singh Bisht**, a dedicated student passionate about **Machine Learning, Computer Vision, and Full Stack Web Development**.  
-I am committed to honing my skills to make a meaningful impact in the AI and software industries, constantly exploring **innovation and creativity**.
+Greetings! I'm **Shailesh Singh Bisht**, a dedicated **Full Stack Web Developer** passionate about building **seamless, high-performance digital experiences**.  
+I specialize in designing and developing **interactive, scalable web applications** that blend **functionality with exceptional user experiences**.
 
 ---
 
-## 💡 **Skill Set in Development**
+## 💡 **Skill Set & Expertise**
 
-### 🧠 **Machine Learning & Computer Vision**
-- **Specialized in:** Python, ML algorithms, YOLOv8, NumPy, scikit-learn, and deep learning techniques.
-- **Focused on:** Image processing, object detection, and predictive analytics.
-- Applying AI to real-world challenges in **automation, healthcare, and beyond**.
+### 🌐 **Front-End Development**
+- Crafting **responsive, dynamic interfaces** with **HTML, CSS, JavaScript, React, and Next.js**.  
+- Focused on creating **intuitive, accessible, and visually engaging** user experiences.
 
-### 🌐 **Full-Stack Web Development**
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js  
-- **Backend:** Node.js, Express.js, MySQL, MongoDB  
-- **Tools & Version Control:** Git, GitHub  
+### 🖥️ **Back-End Development**
+- Developing **scalable and secure** back-end solutions using **Node.js, Express.js, MySQL, and MongoDB**.  
+- Ensuring **seamless data handling** and **efficient API integrations**.
 
-I love building **interactive, high-performance web applications** with seamless front-end experiences and **scalable** back-end solutions.
+### 🎨 **UI/UX & Performance Optimization**
+- Dedicated to improving **user engagement** with **clean UI/UX design, web accessibility, and performance optimizations**.  
+- Building **fast, intuitive, and user-friendly** web applications.
 
 ---
 
 ## 📚 **Current Learning Focus**
-- Refining expertise in **Node.js, Express.js, and Next.js**.  
-- Exploring **advanced ML techniques, model deployment, and AI-powered web applications**.
+- Refining expertise in **Node.js and Express.js** for backend development.  
+- Learning **Next.js** for advanced front-end capabilities.  
+- Exploring **UI/UX principles, performance optimization, and full-stack best practices**.
 
 ---
 
 ## 🎬 **Beyond the Tech World**
-Outside of development, I am an avid **cinema and storytelling enthusiast**.  
-Inspired by classics like **Old Westerns** and *The Lord of the Rings*, I explore how **narratives influence technology** and shape digital experiences.
+Outside of development, I have a deep love for **singing, writing, and cinema**.  
+Whether it's **crafting compelling narratives or appreciating great films**, storytelling is a central passion of mine.  
+I explore how **technology can enhance storytelling**, making digital experiences more **immersive and impactful**.
 
 ---
 
 ## 🔍 **Exploring Opportunities**
-I am eager to connect with **industry professionals, AI researchers, and developers** who share my enthusiasm for **machine learning, web development, and AI-driven applications**.  
-Let’s collaborate and build **transformative solutions** together!
+I am eager to connect with **developers, designers, and industry professionals** who share my passion for **web development, UI/UX, and digital storytelling**.  
+Let’s collaborate and build **transformative experiences together!**
 
 ---
 
-## 📽️ **Columnist | Movies & Stories Enthusiast | Technology Advocate**
-Channeling my passion for movies and storytelling into engaging columns,  
-I explore the **intersection of AI, technology, and storytelling**, advocating for the **future of intelligent digital experiences**.
+## 📽️ **Columnist | Storytelling Enthusiast | Technology Advocate**
+Bridging the gap between **technology and storytelling**, I explore how **digital innovations** can enhance the way we **create and experience narratives** in the modern world.
 
 ---
 
@@ -114,7 +115,6 @@ I explore the **intersection of AI, technology, and storytelling**, advocating f
     <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" width="40" height="40"/>
   </a> 
 </p>
-
 
 ---
 
