@@ -5,7 +5,7 @@ Full Stack Web Developer | UI/UX Enthusiast | Innovating with Modern Web Technol
 </h3>
 
 <p align="center">
-  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Copy%20of%20Game%20Development.png" alt="Shailesh Singh Bisht" />
+  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/6309e544bd512d622df66c17c8b5c2313a874cfb/Copy%20of%20Game%20Development.png" alt="Shailesh Singh Bisht" />
 </p>
 
 <p align="left">
