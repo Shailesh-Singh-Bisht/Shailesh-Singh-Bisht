@@ -86,18 +86,20 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</a>
+
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://mongoosejs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
   </a>
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" alt="JWT" width="40" height="40"/>
-  </a>
+<a href="https://jwt.io/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="JWT" width="40" height="40"/>
+</a>
+
   <a href="https://www.npmjs.com/package/multer" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Multer" width="40" height="40"/>
   </a>
