@@ -23,12 +23,13 @@ I specialize in designing and developing **interactive, scalable web application
 ## 💡 **Skill Set & Expertise**
 
 ### 🌐 **Front-End Development**
-- Crafting **responsive, dynamic interfaces** with **HTML, CSS, JavaScript, React, and Next.js**.  
+- Crafting **responsive, dynamic interfaces** with **HTML, CSS, JavaScript, React, Next.js, Redux, and React Router**.  
 - Focused on creating **intuitive, accessible, and visually engaging** user experiences.
 
 ### 🖥️ **Back-End Development**
 - Developing **scalable and secure** back-end solutions using **Node.js, Express.js, MySQL, and MongoDB**.  
 - Ensuring **seamless data handling** and **efficient API integrations**.
+- Expertise in **Mongoose, JWT authentication, and file handling with Multer**.
 
 ### 🎨 **UI/UX & Performance Optimization**
 - Dedicated to improving **user engagement** with **clean UI/UX design, web accessibility, and performance optimizations**.  
@@ -37,8 +38,7 @@ I specialize in designing and developing **interactive, scalable web application
 ---
 
 ## 📚 **Current Learning Focus**
-- Refining expertise in **Node.js and Express.js** for backend development.  
-- Learning **Next.js** for advanced front-end capabilities.  
+- Mastering **Next.js** for advanced front-end development.  
 - Exploring **UI/UX principles, performance optimization, and full-stack best practices**.
 
 ---
@@ -87,33 +87,21 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Router" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" width="40" height="40"/>
-  </a> 
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" alt="JWT" width="40" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/package/multer" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Multer" width="40" height="40"/>
+  </a>
 </p>
 
 ---
