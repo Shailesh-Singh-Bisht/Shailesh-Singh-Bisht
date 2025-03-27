@@ -126,7 +126,6 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
 </p>
 
 ---
-
 ## 📊 **GitHub Stats**
 <table>
   <tr>
@@ -134,7 +133,7 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
       <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
