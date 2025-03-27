@@ -87,7 +87,7 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSer5zs_osl8bYfvfcy-2o-n0S8-Q-p_9U-g&s" alt="Express.js" width="40" height="40"/>
 </a>
 
   <a href="https://www.mongodb.com/" target="_blank">
@@ -97,7 +97,7 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
   </a>
 <a href="https://jwt.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="JWT" width="40" height="40"/>
+  <img src="https://ik.imagekit.io/ably/ghost/prod/2019/05/Screenshot-2019-05-14-at-13.53.46.png?tr=w-1728,q-50" alt="JWT" width="40" height="40"/>
 </a>
 
   <a href="https://www.npmjs.com/package/multer" target="_blank">
