@@ -1,70 +1,74 @@
-<h1 align="center">🎯 Hi 👋, I'm Shailesh Singh Bisht</h1>
+# **🎯 Hi 👋, I'm Shailesh Singh Bisht**  
+### 🚀 Full Stack Web Developer | UI/UX Enthusiast | Innovating with Modern Web Technologies  
 
-<h3 align="center">
-Full Stack Web Developer | UI/UX Enthusiast | Innovating with Modern Web Technologies
-</h3>
+<div align="center">
+  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/6309e544bd512d622df66c17c8b5c2313a874cfb/Copy%20of%20Game%20Development.png" alt="Shailesh Singh Bisht" width="80%" />
+</div>  
+
+<br/>
 
 <p align="center">
-  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/6309e544bd512d622df66c17c8b5c2313a874cfb/Copy%20of%20Game%20Development.png" alt="Shailesh Singh Bisht" />
-</p>
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=shailesh-singh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 **About Me**
-Greetings! I'm **Shailesh Singh Bisht**, a dedicated **Full Stack Web Developer** passionate about building **seamless, high-performance digital experiences**.  
-I specialize in designing and developing **interactive, scalable web applications** that blend **functionality with exceptional user experiences**.
+I’m **Shailesh Singh Bisht**, a **Full Stack Web Developer** with a passion for crafting **high-performance, interactive, and scalable web applications**.  
+I love blending **functionality with aesthetics** to create seamless user experiences.  
+
+💡 **Core Focus:**  
+✅ Frontend: **React, Next.js, Redux, TailwindCSS**  
+✅ Backend: **Node.js, Express.js, MongoDB, MySQL**  
+✅ UI/UX & Performance: **Clean design, accessibility, and optimization**  
+
+I thrive on **problem-solving** and **building impactful web experiences**! ✨  
 
 ---
 
-## 💡 **Skill Set & Expertise**
+## 💡 **Tech Stack & Expertise**  
 
-### 🌐 **Front-End Development**
-- Crafting **responsive, dynamic interfaces** with **HTML, CSS, JavaScript, React, Next.js, Redux, and React Router**.  
-- Focused on creating **intuitive, accessible, and visually engaging** user experiences.
+### 🎨 **Front-End Development**
+- 🔹 **React.js, Next.js, Redux, React Router**  
+- 🔹 **TypeScript, JavaScript, HTML, CSS, TailwindCSS**  
+- 🔹 Building **responsive, intuitive, and accessible** user interfaces  
 
-### 🖥️ **Back-End Development**
-- Developing **scalable and secure** back-end solutions using **Node.js, Express.js, MySQL, and MongoDB**.  
-- Ensuring **seamless data handling** and **efficient API integrations**.
-- Expertise in **Mongoose, JWT authentication, and file handling with Multer**.
+### ⚙️ **Back-End Development**
+- 🔹 **Node.js, Express.js, MongoDB, MySQL**  
+- 🔹 **Mongoose, JWT Authentication, Multer**  
+- 🔹 API Development, Authentication, Secure Data Handling  
 
-### 🎨 **UI/UX & Performance Optimization**
-- Dedicated to improving **user engagement** with **clean UI/UX design, web accessibility, and performance optimizations**.  
-- Building **fast, intuitive, and user-friendly** web applications.
-
----
-
-## 📚 **Current Learning Focus**
-- Mastering **Next.js** for advanced front-end development.  
-- Exploring **UI/UX principles, performance optimization, and full-stack best practices**.
+### 🚀 **UI/UX & Performance Optimization**
+- 🔹 Crafting **clean, modern, and user-friendly designs**  
+- 🔹 Web accessibility and **performance-focused** development  
 
 ---
 
-## 🎬 **Beyond the Tech World**
-Outside of development, I have a deep love for **singing, writing, and cinema**.  
-Whether it's **crafting compelling narratives or appreciating great films**, storytelling is a central passion of mine.  
-I explore how **technology can enhance storytelling**, making digital experiences more **immersive and impactful**.
+## 🎯 **Current Learning & Goals**
+- 🚀 **Mastering Next.js** for advanced front-end workflows  
+- 📈 **Improving UI/UX & Web Performance Optimization**  
+- 🌍 Exploring the **intersection of storytelling & technology**  
 
 ---
 
-## 🔍 **Exploring Opportunities**
-I am eager to connect with **developers, designers, and industry professionals** who share my passion for **web development, UI/UX, and digital storytelling**.  
-Let’s collaborate and build **transformative experiences together!**
+## 🎬 **Beyond Code**
+Outside of development, I love **singing, writing, and cinema** 🎵🎬  
+Whether it's **crafting compelling stories** or **appreciating great films**, storytelling is my passion.  
+I’m constantly exploring how **technology can make digital experiences more immersive and impactful**.  
 
 ---
 
-## 📽️ **Columnist | Storytelling Enthusiast | Technology Advocate**
-Bridging the gap between **technology and storytelling**, I explore how **digital innovations** can enhance the way we **create and experience narratives** in the modern world.
+## 🔍 **Open to Collaborations!**
+I’m eager to **connect with developers, designers, and industry professionals** who share my passion for **web development, UI/UX, and storytelling**.  
+💡 Let’s **collaborate, innovate, and build amazing experiences together!**  
 
 ---
 
-## 🔗 **Let's Connect!**
-📫 **Email:** shaileshsinghbisht0411@gmail.com  
+## 📫 **Let's Connect!**  
 
-### 🌎 **Find me on:**
+📩 **Email:** shaileshsinghbisht0411@gmail.com  
+
+🌎 **Find me on:**  
 <p align="left">
   <a href="https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -76,68 +80,21 @@ Bridging the gap between **technology and storytelling**, I explore how **digita
 
 ---
 
-## 🛠️ **Languages & Tools**
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>  
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
-  </a>  
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>  
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSer5zs_osl8bYfvfcy-2o-n0S8-Q-p_9U-g&s" alt="Express.js" width="40" height="40"/>
-  </a>  
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>  
-  <a href="https://mongoosejs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
-  </a>  
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://ik.imagekit.io/ably/ghost/prod/2019/05/Screenshot-2019-05-14-at-13.53.46.png?tr=w-1728,q-50" alt="JWT" width="40" height="40"/>
-  </a>  
-  <a href="https://www.npmjs.com/package/multer" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Multer" width="40" height="40"/>
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>  
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>  
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>  
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>  
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-</p>
+## 🛠️ **Languages & Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,express,mongodb,mysql,nodejs,git,figma" />
+</p>  
 
 ---
-## 📊 **GitHub Stats**
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-singh-bisht&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-singh-bisht&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>  
+
+---
+
+### 🚀 **Thank You for Visiting! Let's Connect & Build Something Amazing!**  
+
+---
