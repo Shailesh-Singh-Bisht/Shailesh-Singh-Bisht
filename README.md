@@ -29,7 +29,6 @@ I love blending **functionality with aesthetics** to create seamless user experi
 I thrive on **problem-solving** and **building impactful web experiences**! ✨  
 
 ---
-
 <br/>
 
 ## 💡 **Tech Stack & Expertise**  
@@ -54,7 +53,6 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 - 🔹 Web accessibility and **performance-focused** development  
 
 ---
-
 <br/>
 
 ## 🎯 **Current Learning & Goals**  
@@ -63,7 +61,6 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 - 🌍 Exploring the **intersection of storytelling & technology**  
 
 ---
-
 <br/>
 
 ## 🎬 **Beyond Code**  
@@ -80,7 +77,6 @@ I’m eager to **connect with developers, designers, and industry professionals*
 💡 Let’s **collaborate, innovate, and build amazing experiences together!**  
 
 ---
-
 <br/>
 
 ## 📫 **Let's Connect!**  
@@ -107,7 +103,6 @@ I’m eager to **connect with developers, designers, and industry professionals*
 </p>  
 
 ---
-
 <br/>
 
 ## 📊 **GitHub Stats**  
@@ -117,7 +112,6 @@ I’m eager to **connect with developers, designers, and industry professionals*
 </p>  
 
 ---
-
 <br/>
 
 <h3 align="center">🚀 Thank You for Visiting! Let's Connect & Build Something Amazing! 🚀</h3>  
