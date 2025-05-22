@@ -18,7 +18,7 @@
 <br/>
 
 ## 🚀 **About Me**  
-I’m **Shailesh Singh Bisht**, a **Full Stack Web Developer** with a passion for crafting **high-performance, interactive, and scalable web applications**.  
+I'm **Shailesh Singh Bisht**, a **Full Stack Web Developer** with a passion for crafting **high-performance, interactive, and scalable web applications**.  
 I love blending **functionality with aesthetics** to create seamless user experiences.  
 
 💡 **Core Focus:**  
@@ -44,6 +44,21 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 - 🔹 **Postman** for API testing  
 - 🔹 API Development, Authentication, Secure Data Handling  
 
+### 🛠️ **Full Stack Tools & Development Environment**  
+- 🔹 **Next.js** for full-stack React applications with SSR/SSG capabilities  
+- 🔹 **Zod** for TypeScript-first schema validation and type safety  
+- 🔹 **VS Code** as my primary development environment with extensive extensions  
+- 🔹 **Postman** for comprehensive API testing, documentation, and collaboration  
+- 🔹 **Cloudinary** for efficient image and media management in web applications  
+- 🔹 **Git** for version control, collaborative development, and project management  
+- 🔹 Streamlining development workflows and ensuring **code quality & deployment efficiency**  
+
+### 🤖 **AI & Large Language Models**  
+- 🔹 **Google Gemini** for advanced AI-powered development assistance and content generation  
+- 🔹 **ChatGPT** for problem-solving, code optimization, and technical documentation  
+- 🔹 **GitHub Copilot** for intelligent code completion and pair programming  
+- 🔹 Leveraging AI tools to **enhance productivity, code quality, and innovative solutions**  
+
 ### 🚀 **Programming Languages**  
 - 🔹 **JavaScript, TypeScript, Python**  
 - 🔹 **C, C++, Java**  
@@ -55,26 +70,18 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 ---
 <br/>
 
-## 🎯 **Current Learning & Goals**  
-- 🚀 **Mastering Next.js** for advanced front-end workflows  
-- 📈 **Improving UI/UX & Web Performance Optimization**  
-- 🌍 Exploring the **intersection of storytelling & technology**  
-
----
-<br/>
-
 ## 🎬 **Beyond Code**  
 Outside of development, I love **singing, writing, and cinema** 🎵🎬  
 Whether it's **crafting compelling stories** or **appreciating great films**, storytelling is my passion.  
-I’m constantly exploring how **technology can make digital experiences more immersive and impactful**.  
+I'm constantly exploring how **technology can make digital experiences more immersive and impactful**.  
 
 ---
 
 <br/>
 
 ## 🔍 **Open to Collaborations!**  
-I’m eager to **connect with developers, designers, and industry professionals** who share my passion for **web development, UI/UX, and storytelling**.  
-💡 Let’s **collaborate, innovate, and build amazing experiences together!**  
+I'm eager to **connect with developers, designers, and industry professionals** who share my passion for **web development, UI/UX, and storytelling**.  
+💡 Let's **collaborate, innovate, and build amazing experiences together!**  
 
 ---
 <br/>
