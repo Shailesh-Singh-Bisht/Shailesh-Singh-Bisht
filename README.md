@@ -124,6 +124,7 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 ---
 
 <br/>
+
 ## 🛠️ **Languages & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,express,mongodb,mysql,nodejs,postman,python,java,cpp,c,godot,qt" />
