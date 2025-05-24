@@ -83,6 +83,7 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 
 ---
 <br/>
+
 ## 🎬 **Beyond Code**  
 Outside of development, I love **singing, writing, and cinema** 🎵🎬  
 Whether it's **crafting compelling stories** or **appreciating great films**, storytelling is my passion.  
