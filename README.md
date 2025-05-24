@@ -83,7 +83,6 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 
 ---
 <br/>
-
 ## 🎬 **Beyond Code**  
 Outside of development, I love **singing, writing, and cinema** 🎵🎬  
 Whether it's **crafting compelling stories** or **appreciating great films**, storytelling is my passion.  
@@ -117,14 +116,12 @@ I'm eager to **connect with developers, designers, and industry professionals** 
 ---
 
 <br/>
-
 ## 🌐 **Visit My Portfolio**  
 Check out my work and projects on my **[Portfolio Website](https://shailesh-singh-bisht-portfolio.vercel.app/)**!
 
 ---
 
 <br/>
-
 ## 🛠️ **Languages & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,express,mongodb,mysql,nodejs,postman,python,java,cpp,c,godot,qt" />
@@ -132,7 +129,6 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 
 ---
 <br/>
-
 ## 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
@@ -141,5 +137,4 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 
 ---
 <br/>
-
 <h3 align="center">🚀 Thank You for Visiting! Let's Connect & Build Something Amazing! 🚀</h3>
