@@ -117,6 +117,7 @@ I'm eager to **connect with developers, designers, and industry professionals** 
 ---
 
 <br/>
+
 ## 🌐 **Visit My Portfolio**  
 Check out my work and projects on my **[Portfolio Website](https://shailesh-singh-bisht-portfolio.vercel.app/)**!
 
@@ -130,6 +131,7 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 
 ---
 <br/>
+
 ## 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
@@ -138,4 +140,5 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 
 ---
 <br/>
+
 <h3 align="center">🚀 Thank You for Visiting! Let's Connect & Build Something Amazing! 🚀</h3>
