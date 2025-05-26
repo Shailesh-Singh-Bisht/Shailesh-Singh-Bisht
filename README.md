@@ -135,8 +135,8 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-singh-bisht&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&theme=radical&cache_bust=1748256106" alt="GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-singh-bisht&layout=compact&theme=radical&cache_bust=1748256106" alt="Top Languages" height="180px"/>
 </p>  
 
 ---
