@@ -1,5 +1,5 @@
 <h1 align="center">🎯 Hi 👋, I'm Shailesh Singh Bisht</h1>  
-<h3 align="center">🚀 Full Stack Web Developer | Software Designer | Game Developer | Innovating with Modern Web Technologies</h3>  
+<h3 align="center">🚀 Full Stack Web Developer | Game Developer | Narrative Designer | Merging Code, Creativity & Impact</h3>  
 
 <br/>
 
@@ -18,15 +18,13 @@
 <br/>
 
 ## 🚀 **About Me**  
-I'm **Shailesh Singh Bisht**, a **Full Stack Web Developer** with a passion for crafting **high-performance, interactive, and scalable web applications**.  
-I love blending **functionality with aesthetics** to create seamless user experiences.  
+I'm **Shailesh Singh Bisht**, a **Full Stack Web Developer**, **Game Developer**, and **Narrative Designer**.  
+I specialize in building high-performance web apps, immersive games, and interactive experiences that fuse elegant design with impactful functionality.
 
-💡 **Core Focus:**  
-✅ Frontend: **React, Next.js, Redux, TailwindCSS, TypeScript**  
-✅ Backend: **Node.js, Express.js, MongoDB, MySQL**  
-✅ UI/UX & Performance: **Clean design, accessibility, and optimization**  
-
-I thrive on **problem-solving** and **building impactful web experiences**! ✨  
+💡 **What I Love Doing:**  
+- ✨ Creating modern, responsive UIs with stunning performance  
+- ✨ Building scalable full-stack solutions with clean architecture  
+- ✨ Designing stories and games that keep users engaged  
 
 ---
 <br/>
@@ -34,77 +32,59 @@ I thrive on **problem-solving** and **building impactful web experiences**! ✨
 ## 💡 **Tech Stack & Expertise**  
 
 ### 🎨 **Front-End Development**  
-- 🔹 **React.js, Next.js, Redux, React Router, TypeScript**  
-- 🔹 **JavaScript, HTML, CSS, TailwindCSS**  
-- 🔹 Building **responsive, intuitive, and accessible** user interfaces  
+- React.js, Next.js, Redux, React Router, TypeScript  
+- HTML, CSS, TailwindCSS, shadcn/ui  
+- UI/UX focused development with accessibility and responsiveness  
 
 ### ⚙️ **Back-End Development**  
-- 🔹 **Node.js, Express.js, MongoDB, MySQL**  
-- 🔹 **Mongoose, JWT Authentication, Multer**  
-- 🔹 **Postman** for API testing  
-- 🔹 API Development, Authentication, Secure Data Handling  
+- Node.js, Express.js, MongoDB, MySQL  
+- Mongoose, JWT Auth, Multer  
+- RESTful APIs, secure authentication, and data flow management  
 
-### 🛠️ **Full Stack Tools & Development Environment**  
-- 🔹 **Next.js** for full-stack React applications with SSR/SSG capabilities  
-- 🔹 **Zod** for TypeScript-first schema validation and type safety  
-- 🔹 **VS Code** as my primary development environment with extensive extensions  
-- 🔹 **Postman** for comprehensive API testing, documentation, and collaboration  
-- 🔹 **Cloudinary** for efficient image and media management in web applications  
-- 🔹 **Git** for version control, collaborative development, and project management  
-- 🔹 Streamlining development workflows and ensuring **code quality & deployment efficiency**
+### 🛠️ **Full Stack Tools & Environment**  
+- Next.js (SSR/SSG), Zod (schema validation)  
+- Git, Postman, VS Code  
+- Cloudinary for media handling, streamlined CI/CD workflows  
 
 ### 🎮 **Game Development**  
-- 🔹 **SFML** for 2D game development with C++  
-- 🔹 **Godot 4** for modern game creation with GDScript and C#  
-- 🔹 Creating **interactive experiences** and **engaging gameplay mechanics**  
-- 🔹 Building games with **smooth performance** and **immersive audio-visual elements**  
+- SFML (C++), Godot 4 (GDScript & C#)  
+- Interactive gameplay, narrative mechanics, optimized performance  
+- Audio-visual storytelling through code  
 
-### 🖥️ **Software Designer & Development**  
-- 🔹 **Qt Framework** for cross-platform desktop application development  
-- 🔹 **SDL2** for multimedia applications and game engines  
-- 🔹 **SDL2_mixer** for advanced audio processing and music integration  
-- 🔹 Combining **software functionality with rich multimedia experiences**  
-- 🔹 Creating applications that **seamlessly blend technology with music and audio**  
-- 🔹 Designing **intuitive desktop interfaces** and **performance-optimized applications**  
+### 🖥️ **Software Design & Multimedia**  
+- Qt (Cross-platform Desktop Apps)  
+- SDL2 + SDL2_mixer (Game Engines & Audio Integration)  
+- Blending UI, logic, and multimedia into compelling software  
 
-### 🤖 **AI & Large Language Models**  
-- 🔹 **Google Gemini** for advanced AI-powered development assistance and content generation  
-- 🔹 **ChatGPT** for problem-solving, code optimization, and technical documentation  
-- 🔹 **GitHub Copilot** for intelligent code completion and pair programming  
-- 🔹 Leveraging AI tools to **enhance productivity, code quality, and innovative solutions**  
+### 💻 **Programming Languages**  
+- JavaScript, TypeScript, Python, C, C++, Java  
 
-### 🚀 **Programming Languages**  
-- 🔹 **JavaScript, TypeScript, Python**  
-- 🔹 **C, C++, Java**  
-
-### 🎯 **UI/UX & Performance Optimization**  
-- 🔹 Crafting **clean, modern, and user-friendly designs**  
-- 🔹 Web accessibility and **performance-focused** development  
+### 🎯 **Design & Optimization**  
+- Clean UI/UX, component-driven architecture  
+- Accessibility-first design and performance tuning  
 
 ---
 <br/>
 
 ## 🎬 **Beyond Code**  
-Outside of development, I love **singing, writing, and cinema** 🎵🎬  
-Whether it's **crafting compelling stories** or **appreciating great films**, storytelling is my passion.  
-I'm constantly exploring how **technology can make digital experiences more immersive and impactful**.  
-
----
-
-<br/>
-
-## 🔍 **Open to Collaborations!**  
-I'm eager to **connect with developers, designers, and industry professionals** who share my passion for **web development, UI/UX, and storytelling**.  
-💡 Let's **collaborate, innovate, and build amazing experiences together!**  
+When I'm not building interfaces or gameplay loops, you’ll find me singing, writing, or rewatching cinematic classics.  
+I believe the best digital experiences are built where code meets creativity.
 
 ---
 <br/>
 
-## 📫 **Let's Connect!**  
+## 🤝 **Let’s Collaborate!**  
+Open to working with developers, designers, storytellers, and teams who believe in creating something impactful.  
+Let's bring ideas to life — from web apps to narrative games.
+
+---
+<br/>
+
+## 📫 **Reach Out**  
 
 📩 **Email:** shaileshsinghbisht0411@gmail.com  
 
-### 🌎 **Find me on:**  
+### 🌍 **Socials:**  
 <p align="center">
   <a href="https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -115,14 +95,12 @@ I'm eager to **connect with developers, designers, and industry professionals** 
 </p>
 
 ---
-
 <br/>
 
-## 🌐 **Visit My Portfolio**  
-Check out my work and projects on my **[Portfolio Website](https://shailesh-singh-bisht-portfolio.vercel.app/)**!
+## 🌐 **Portfolio**  
+Check out my work: **[shailesh-singh-bisht-portfolio.vercel.app](https://shailesh-singh-bisht-portfolio.vercel.app/)**
 
 ---
-
 <br/>
 
 ## 🛠️ **Languages & Tools**  
@@ -142,4 +120,4 @@ Check out my work and projects on my **[Portfolio Website](https://shailesh-sing
 ---
 <br/>
 
-<h3 align="center">🚀 Thank You for Visiting! Let's Connect & Build Something Amazing! 🚀</h3>
+<h3 align="center">🚀 Thanks for visiting! Let's build code that tells stories. 🚀</h3>
