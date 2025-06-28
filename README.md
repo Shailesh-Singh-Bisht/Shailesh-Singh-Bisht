@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Copy%20of%20Game%20Development.png" alt="Shailesh Singh Bisht" width="80%" />
+  <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/20250628_2332_Futuristic%20Developer%20Banner_simple_compose_01jyvv85d1emna7c65xj98tb7p.png" alt="Shailesh Singh Bisht" width="80%" />
 </div>  
 
 <br/>
