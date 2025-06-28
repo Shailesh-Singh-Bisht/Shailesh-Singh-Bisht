@@ -37,7 +37,7 @@ I specialize in building high-performance web apps, immersive games, and interac
 - UI/UX focused development with accessibility and responsiveness  
 
 ### ⚙️ **Back-End Development**  
-- Node.js, Express.js, MongoDB, MySQL  
+- Node.js, Express.js, MongoDB, MySQL,
 - Mongoose, JWT Auth, Multer  
 - RESTful APIs, secure authentication, and data flow management  
 
@@ -50,11 +50,6 @@ I specialize in building high-performance web apps, immersive games, and interac
 - SFML (C++), Godot 4 (GDScript & C#)  
 - Interactive gameplay, narrative mechanics, optimized performance  
 - Audio-visual storytelling through code  
-
-### 🖥️ **Software Design & Multimedia**  
-- Qt (Cross-platform Desktop Apps)  
-- SDL2 + SDL2_mixer (Game Engines & Audio Integration)  
-- Blending UI, logic, and multimedia into compelling software  
 
 ### 💻 **Programming Languages**  
 - JavaScript, TypeScript, Python, C, C++, Java  
