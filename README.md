@@ -93,7 +93,7 @@ Let's bring ideas to life — from web apps to narrative games.
 <br/>
 
 ## 🌐 **Portfolio**  
-Check out my work: **[shailesh-singh-bisht-portfolio.vercel.app](https://shailesh-singh-bisht-portfolio.vercel.app/)**
+Check out my work: [shailesh-singh-bisht-portfolio.vercel.app](https://shailesh-singh-bisht-portfolio.vercel.app/)
 
 ---
 <br/>
