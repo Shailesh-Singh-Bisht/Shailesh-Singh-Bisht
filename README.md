@@ -1,5 +1,5 @@
 <h1 align="center">🎯 Hi 👋, I'm Shailesh Singh Bisht</h1>  
-<h3 align="center">🚀 Full Stack Web Developer | Game Developer | Narrative Designer | Merging Code, Creativity & Impact</h3>  
+<h3 align="center">🚀 Full Stack Web Developer | Software Developer | DevOps Enthusiast | Building Scalable Systems & Seamless Experiences</h3>  
 
 <br/>
 
@@ -18,13 +18,13 @@
 <br/>
 
 ## 🚀 **About Me**  
-I'm **Shailesh Singh Bisht**, a **Full Stack Web Developer**, **Game Developer**, and **Narrative Designer**.  
-I specialize in building high-performance web apps, immersive games, and interactive experiences that fuse elegant design with impactful functionality.
+I'm **Shailesh Singh Bisht**, a **Full Stack Web Developer**, **Software Developer**, and a **DevOps Enthusiast**.  
+I specialize in building high-performance, scalable web and desktop applications — and I'm diving into DevOps to level up how I build, test, and deploy software.
 
 💡 **What I Love Doing:**  
-- ✨ Creating modern, responsive UIs with stunning performance  
-- ✨ Building scalable full-stack solutions with clean architecture  
-- ✨ Designing stories and games that keep users engaged  
+- ✨ Creating sleek, responsive UIs with performance in mind  
+- ✨ Developing full-stack solutions with solid backend architecture  
+- ✨ Automating builds and deployments for efficient software delivery  
 
 ---
 <br/>
@@ -37,40 +37,49 @@ I specialize in building high-performance web apps, immersive games, and interac
 - UI/UX focused development with accessibility and responsiveness  
 
 ### ⚙️ **Back-End Development**  
-- Node.js, Express.js, MongoDB, MySQL,
+- Node.js, Express.js, MongoDB, MySQL  
 - Mongoose, JWT Auth, Multer  
 - RESTful APIs, secure authentication, and data flow management  
 
-### 🛠️ **Full Stack Tools & Environment**  
+### 🧰 **Software Development (Desktop)**  
+- **Python (Tkinter)** for lightweight GUI tools  
+- **C++ (Qt)** for robust, cross-platform apps  
+- **Java (Swing)** for desktop apps with OOP-driven architecture  
+- Focused on creating reliable, user-friendly applications with rich UI  
+
+### 🚀 **DevOps Journey (In Progress)**  
+- Git for version control (✔️ confident)  
+- Exploring Docker for containerization  
+- Learning Kubernetes for orchestration  
+- Jenkins for CI/CD automation  
+- Selenium for automated testing  
+- On a path to mastering modern DevOps workflows  
+
+### 🌐 **Full Stack Tools & Environment**  
 - Next.js (SSR/SSG), Zod (schema validation)  
 - Git, Postman, VS Code  
-- Cloudinary for media handling, streamlined CI/CD workflows  
-
-### 🎮 **Game Development**  
-- SFML (C++), Godot 4 (GDScript & C#)  
-- Interactive gameplay, narrative mechanics, optimized performance  
-- Audio-visual storytelling through code  
+- Cloudinary for media handling, CI/CD integration  
 
 ### 💻 **Programming Languages**  
 - JavaScript, TypeScript, Python, C, C++, Java  
 
 ### 🎯 **Design & Optimization**  
-- Clean UI/UX, component-driven architecture  
-- Accessibility-first design and performance tuning  
+- Clean, component-driven architecture  
+- Performance-first development with accessibility in focus  
 
 ---
 <br/>
 
-## 🎬 **Beyond Code**  
-When I'm not building interfaces or gameplay loops, you’ll find me singing, writing, or rewatching cinematic classics.  
-I believe the best digital experiences are built where code meets creativity.
+## 🧠 **Beyond Code**  
+When I’m not coding or tinkering with containers, you’ll find me singing, exploring tech tools, or rewatching iconic movie scenes.  
+I believe in building software that’s not only functional — but impactful.
 
 ---
 <br/>
 
 ## 🤝 **Let’s Collaborate!**  
-Open to working with developers, designers, storytellers, and teams who believe in creating something impactful.  
-Let's bring ideas to life — from web apps to narrative games.
+I’m open to collaborating with developers, engineers, and teams building meaningful tech.  
+Whether it's apps, systems, or automation — let's make it happen.
 
 ---
 <br/>
@@ -100,7 +109,7 @@ Check out my work: **[Shailesh Singh Bisht](https://shailesh-singh-bisht-portfol
 
 ## 🛠️ **Languages & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,express,mongodb,mysql,nodejs,postman,python,java,cpp,c,godot,qt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,express,mongodb,mysql,nodejs,postman,python,java,cpp,c,qt,docker,kubernetes,jenkins,selenium,git" />
 </p>  
 
 ---
@@ -115,4 +124,4 @@ Check out my work: **[Shailesh Singh Bisht](https://shailesh-singh-bisht-portfol
 ---
 <br/>
 
-<h3 align="center">🚀 Thanks for visiting! Let's build code that tells stories. 🚀</h3>
+<h3 align="center">🚀 Thanks for visiting! Let’s build code that performs, scales & evolves. 🚀</h3>
