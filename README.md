@@ -96,7 +96,11 @@ Whether it's apps, systems, or automation — let's make it happen.
   <a href="https://leetcode.com/u/shailesh_singh_bisht/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  <a href="https://x.com/AdrianRorker" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 <br/>
