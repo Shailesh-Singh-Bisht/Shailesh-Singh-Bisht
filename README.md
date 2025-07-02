@@ -95,8 +95,8 @@ I architect clean, efficient, and beautiful digital experiences across platforms
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-singh-bisht&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shailesh-singh-bisht&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&hide_border=false&border_radius=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-singh-bisht&layout=compact&langs_count=10&theme=radical&hide_border=false&border_radius=12" height="180"/>
 </p>
 
 ---
