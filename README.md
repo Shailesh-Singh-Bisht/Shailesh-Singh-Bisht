@@ -13,54 +13,51 @@
 
 ## 🧠 About Me
 
-🚀 I'm **Shailesh Singh Bisht** — your friendly neighborhood **Full Stack Developer**, **Software Artisan**, and **DevOps Adventurer**. I architect clean, efficient, and beautiful digital experiences across platforms.  
+🚀 I'm **Shailesh Singh Bisht** — your friendly neighborhood **Full Stack Developer**, **Software Artisan**, and **Starting DevOps Enthusiast**.  
+I architect clean, efficient, and beautiful digital experiences across platforms.  
 
 🧰 From scalable apps to solid CI/CD pipelines, my code isn't just fast — it's thoughtful. I'm a problem-solver who lives for logic, learns obsessively, and secretly plots RPG narratives when no one's looking.
-
-💬 I believe great software is equal parts:  
-- ✨ Aesthetics  
-- ⚙️ Performance  
-- 🤝 Collaboration  
 
 ---
 
 ## 💼 Tech Toolbox
 
 ### 🎨 Front-End Arsenal  
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=for-the-badge&logo=radixui&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-18181b?style=for-the-badge&logo=radixui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Back-End Backbone  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 💻 Software Development (Desktop)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🚀 DevOps Journey  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+### 🛠️ Starting DevOps  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
 ## 🔥 Languages I Write In  
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -75,9 +72,8 @@
 ---
 
 ## 💬 Beyond Code  
-
 🎵 I sing (yes, really).  
-🎬 I analyze films like a scriptwriter with a debugger.  
+🎬 I analyze films like a screenwriter with a debugger.  
 🧙‍♂️ I worldbuild fantasy quests for fun — and someday, maybe for games.  
 
 ⚡ Side Quest: Exploring **Narrative Design** — where branching paths, player choice, and clever dialogue shape the world.
@@ -85,7 +81,6 @@
 ---
 
 ## 📫 Contact Me  
-
 📧 **Email:** shaileshsinghbisht0411@gmail.com  
 🌐 [**LinkedIn**](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [**Twitter (X)**](https://x.com/AdrianRorker) • [**LeetCode**](https://leetcode.com/u/shailesh_singh_bisht/)
 
