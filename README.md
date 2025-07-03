@@ -85,7 +85,7 @@ I explore **narrative systems** where player choice, emotional impact, and logic
   Built with Next.js, Tailwind, and Shadcn. Features web apps, REST APIs, and scalable UI systems.  
   Currently working on a full stack media platform with dynamic content delivery and user interaction layers.
 
-- 🎮 **[Game Dev Portfolio (Narrative + Systems)](https://shailesh-game-dev.vercel.app/)**  
+- 🎮 **[Game Dev Portfolio (Narrative + Systems)](https://game-dev-portfolio-tau.vercel.app/)**  
   A focused portfolio for game development, narrative systems, and storytelling tools.  
   Features original projects, dialogue engines, branching prototypes, and design experiments.
 
