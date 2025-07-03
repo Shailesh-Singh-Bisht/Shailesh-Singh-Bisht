@@ -69,9 +69,6 @@ I architect clean, efficient, and scalable digital experiences across platforms.
 - 🍿 **[MovieRec – Real-Time Movie Recommendation Web App](https://github.com/Shailesh-Singh-Bisht/The-MovieRec)**  
   React + TMDb-powered movie search & filter UI — real-time data fetching and genre-based discovery.
 
-- 🎮 **[Narrative Design Portfolio](https://melodious-pancreas-4ed.notion.site/Shailesh-Singh-Bisht-Narrative-Portfolio-22192630137180bba74acc79c063ad52)**  
-  Interactive story systems, branching logic, and dialogue engines built for games. Where code meets creativity.
-
 ---
 
 ## 📜 Side Quest: Narrative Design
@@ -82,9 +79,21 @@ I explore **narrative systems** where player choice, emotional impact, and logic
 
 ---
 
+## ✨ Portfolios
+
+- 💻 **[Dev Portfolio (Full Stack & DevOps)](https://shailesh-singh-bisht-portfolio.vercel.app/)**  
+  Built with Next.js, Tailwind, and Shadcn. Features web apps, REST APIs, and scalable UI systems.  
+  Currently working on a full stack media platform with dynamic content delivery and user interaction layers.
+
+- 🎮 **[Game Dev Portfolio (Narrative + Systems)](https://shailesh-game-dev.vercel.app/)**  
+  A focused portfolio for game development, narrative systems, and storytelling tools.  
+  Features original projects, dialogue engines, branching prototypes, and design experiments.
+
+---
+
 ## 📫 Contact Me  
 📧 **Email:** shaileshsinghbisht0411@gmail.com  
-🌐 [**Portfolio**](https://shailesh-singh-bisht-portfolio.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [**X (Twitter)**](https://x.com/AdrianRorker) • [**LeetCode**](https://leetcode.com/u/shailesh_singh_bisht/)
+ • [**LinkedIn**](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [**X (Twitter)**](https://x.com/AdrianRorker) • [**LeetCode**](https://leetcode.com/u/shailesh_singh_bisht/)
 
 ---
 
