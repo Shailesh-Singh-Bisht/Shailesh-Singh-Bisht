@@ -13,10 +13,10 @@
 
 ## 🧠 About Me
 
-🚀 I'm **Shailesh Singh Bisht** — your friendly neighborhood **Full Stack Developer**, **Software Artisan**, and **Starting DevOps Enthusiast**.  
-I architect clean, efficient, and beautiful digital experiences across platforms.  
+🚀 I'm **Shailesh Singh Bisht** — your friendly neighborhood **Full Stack Developer**, **Software Artisan**, and **DevOps Explorer**.  
+I architect clean, efficient, and scalable digital experiences across platforms.
 
-🧰 From scalable apps to solid CI/CD pipelines, my code isn't just fast — it's thoughtful. I'm a problem-solver who lives for logic, learns obsessively, and secretly plots RPG narratives when no one's looking.
+🧰 From high-performance UIs to automated pipelines, my code isn't just fast — it's thoughtful. I'm a system-builder who lives for logic, learns obsessively, and secretly plots RPG-style story systems when no one's looking.
 
 ---
 
@@ -42,7 +42,7 @@ I architect clean, efficient, and beautiful digital experiences across platforms
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🛠️ Starting DevOps  
+### 🛠️ DevOps in Action  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -61,28 +61,30 @@ I architect clean, efficient, and beautiful digital experiences across platforms
 
 ---
 
-## ✨ Projects & Portfolio  
-📦 Check out my work: [**Portfolio Website**](https://shailesh-singh-bisht-portfolio.vercel.app/)  
+## ✨ Featured Projects  
 
-🎯 Currently building:  
-- Modern UI kits  
-- DevOps automation scripts  
-- Cross-platform GUI tools  
+- 🚀 **[The Spacemen – Retro 2D Space Shooter](https://github.com/Shailesh-Singh-Bisht/The-Spacemen-SFML-Based-Game)**  
+  Built in C++17 & SFML 2.5.1 — arcade-inspired enemy combat, health systems, immersive audio & pixel vibes.
+
+- 🍿 **[MovieRec – Real-Time Movie Recommendation Web App](https://github.com/Shailesh-Singh-Bisht/The-MovieRec)**  
+  React + TMDb-powered movie search & filter UI — real-time data fetching and genre-based discovery.
+
+- 🎮 **[Narrative Design Portfolio](https://melodious-pancreas-4ed.notion.site/Shailesh-Singh-Bisht-Narrative-Portfolio-22192630137180bba74acc79c063ad52)**  
+  Interactive story systems, branching logic, and dialogue engines built for games. Where code meets creativity.
 
 ---
 
-## 💬 Beyond Code  
-🎵 I sing (yes, really).  
-🎬 I analyze films like a screenwriter with a debugger.  
-🧙‍♂️ I worldbuild fantasy quests for fun — and someday, maybe for games.  
+## 📜 Side Quest: Narrative Design
 
-⚡ Side Quest: Exploring **Narrative Design** — where branching paths, player choice, and clever dialogue shape the world.
+I explore **narrative systems** where player choice, emotional impact, and logic structures meet. Whether it's a dialogue engine in JS or a branching story map in Twine, I’m always building stories that think like software.
+
+> *“The best code tells a story. The best stories are coded with care.”*
 
 ---
 
 ## 📫 Contact Me  
 📧 **Email:** shaileshsinghbisht0411@gmail.com  
-🌐 [**LinkedIn**](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [**Twitter (X)**](https://x.com/AdrianRorker) • [**LeetCode**](https://leetcode.com/u/shailesh_singh_bisht/)
+🌐 [**Portfolio**](https://shailesh-singh-bisht-portfolio.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [**X (Twitter)**](https://x.com/AdrianRorker) • [**LeetCode**](https://leetcode.com/u/shailesh_singh_bisht/)
 
 ---
 
