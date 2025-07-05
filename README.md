@@ -43,10 +43,10 @@ Whether it’s crafting rich UIs, scalable APIs, interactive dialogue trees, or 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 🕹️ Game Dev & Narrative Tools  
+### 🕹️ Game Dev Tools  
 ![Godot](https://img.shields.io/badge/-Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-074c75?style=for-the-badge&logo=sfml&logoColor=white)
 
 ---
@@ -75,13 +75,6 @@ Whether it’s crafting rich UIs, scalable APIs, interactive dialogue trees, or 
 
 ---
 
-## ✍️ Game Development & Narrative Design
-
-I create interactive experiences that blend logic, systems, and storytelling.  
-From branching dialogues and quest logic to full narrative writing, I design games that *feel alive* and *say something*.
-
----
-
 ## 🔗 Portfolios
 
 - 💻 **[Dev Portfolio (Full Stack & DevOps)](https://shailesh-singh-bisht-portfolio.vercel.app/)**  
@@ -100,7 +93,7 @@ From branching dialogues and quest logic to full narrative writing, I design gam
 
 ## 🛠️ Skill Icons  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,shadcn,mongodb,mongoose,prisma,mysql,nodejs,express,postman,python,java,cpp,c,qt,docker,jenkins,selenium,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,shadcn,mongodb,mongoose,prisma,mysql,nodejs,express,postman,python,java,cpp,c,qt,docker,jenkins,selenium,git,unity,godot" />
 </p>
 
 ---
