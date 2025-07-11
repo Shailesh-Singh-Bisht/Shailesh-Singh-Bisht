@@ -1,5 +1,5 @@
 <h1 align="center">🎯 Hey there, I'm <span style="color:#007acc">Shailesh Singh Bisht</span> 👋</h1>
-<h3 align="center">💻 Full Stack Developer | Game Dev & Narrative Designer | Clean Code, Scalable Systems, Interactive Stories</h3>
+<h3 align="center">💻 Full Stack Developer | 🎮 Game Designer & Developer | Clean Code, Scalable Systems, and Player-Driven Experiences</h3>
 
 <div align="center">
   <img src="https://github.com/Shailesh-Singh-Bisht/Shailesh-Singh-Bisht/blob/main/Profile%20Banner.png" alt="Banner" width="100%"/>
@@ -13,10 +13,10 @@
 
 ## 🧠 About Me
 
-I'm **Shailesh Singh Bisht** — a **Full Stack Web Developer**, aspiring **Game Dev**, and **Narrative Designer**.  
-I build systems that run fast, scale smooth, and tell meaningful stories.
+I'm **Shailesh Singh Bisht** — a **Full Stack Web Developer** and **Game Designer & Developer**.  
+I build fast, scalable web systems and games that are as expressive as they are playable.
 
-Whether it’s crafting rich UIs, scalable APIs, interactive dialogue trees, or gameplay systems — I focus on **clarity, performance, and experience**.
+Whether it’s clean UI, secure backend APIs, or tight gameplay systems — I focus on **clarity, performance, and impact**.
 
 ---
 
@@ -43,7 +43,7 @@ Whether it’s crafting rich UIs, scalable APIs, interactive dialogue trees, or 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 🕹️ Game Dev Tools  
+### 🎮 Game Dev Stack  
 ![Godot](https://img.shields.io/badge/-Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -64,24 +64,21 @@ Whether it’s crafting rich UIs, scalable APIs, interactive dialogue trees, or 
 ## 🎮 Featured Game Project
 
 - **[The Spacemen – Retro 2D Space Shooter](https://github.com/Shailesh-Singh-Bisht/The-Spacemen-SFML-Based-Game)**  
-  C++17 & SFML 2.5.1 | Classic arcade-style enemy waves, health mechanics, audio FX, and core game loop architecture.
+  C++17 & SFML 2.5.1 | Classic arcade-style gameplay, enemy wave logic, audio FX, and a robust game loop.
 
 ---
 
 ## 💻 Featured Web Project
 
 - **[MovieRec – Real-Time Movie Recommendation Web App](https://github.com/Shailesh-Singh-Bisht/The-MovieRec)**  
-  React + TMDb API | Dynamic genre filtering, real-time fetch, clean UI routing. Built for speed and discoverability.
+  React + TMDb API | Clean routing, genre filtering, and dynamic movie discovery with real-time search.
 
 ---
 
 ## 🔗 Portfolios
 
-- 💻 **[Dev Portfolio (Full Stack & DevOps)](https://shailesh-singh-bisht-portfolio.vercel.app/)**  
-  Built with Next.js, Tailwind, Shadcn — includes full stack projects, API systems, and clean UI builds.
-
-- 🎮 **[Game Dev Portfolio (Narrative + Systems)](https://game-dev-portfolio-tau.vercel.app/)**  
-  Focused on interactive storytelling, dialogue systems, and custom gameplay mechanics.
+- 💻 **[Dev Portfolio](https://shailesh-singh-bisht-portfolio.vercel.app/)** – Full stack projects, scalable systems, clean UI.
+- 🎮 **[Game Dev Portfolio](https://game-dev-portfolio-tau.vercel.app/)** – Focused on systems, design, writing & worldbuilding.
 
 ---
 
@@ -106,4 +103,4 @@ Whether it’s crafting rich UIs, scalable APIs, interactive dialogue trees, or 
 
 ---
 
-<h3 align="center">🚀 Thanks for scrolling! Let’s build something fast, scalable, and maybe a little legendary.</h3>
+<h3 align="center">🚀 Thanks for scrolling! Let’s build something that’s fast, fun, and unforgettable.</h3>
