@@ -1,0 +1,24 @@
+name: ♻️ Daily README Cache Refresh
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 📝 Update timestamp file
+        run: |
+          echo "Updated: $(date -u)" > .cache-update.txt
+
+      - name: 💾 Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '.cache-update.txt'
+          message: '🔄 Auto-refresh README cache'
+          default_author: github_actions
