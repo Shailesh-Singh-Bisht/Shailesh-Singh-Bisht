@@ -63,8 +63,8 @@ Whether it’s clean UI, secure backend APIs, or tight gameplay systems — I fo
 
 ## 🎮 Featured Game Project
 
-- **[The Spacemen – Retro 2D Space Shooter](https://github.com/Shailesh-Singh-Bisht/The-Spacemen-SFML-Based-Game)**  
-  C++17 & SFML 2.5.1 | Classic arcade-style gameplay, enemy wave logic, audio FX, and a robust game loop.
+- **[GODOT4 3D Layout](https://github.com/Shailesh-Singh-Bisht/GODOT-3D-Game)**  
+  GODOT4 3D | Simple 3D Layout with a simple First person player controller, prop placement. 
 
 ---
 
