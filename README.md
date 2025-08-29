@@ -1,5 +1,5 @@
-<h1 align="center">🎯 Hey there, I'm <strong>Shailesh Singh Bisht</strong> 👋</h1>
-<h3 align="center">💻 Full Stack Developer | 🎮 Game Designer & Developer | Clean Code, Scalable Systems, and Player-Driven Experiences</h3>
+<h1 align="center">🎯 Hey there, I'm <strong>Shailesh Singh Bisht</strong> 👋</h1>  
+<h3 align="center">🎮 Game Developer & Designer | 💻 Full-Stack Developer | Crafting Clean Code, Scalable Systems & Player-Driven Experiences</h3>
 
 <div align="center">
   <a href="https://shailesh-singh-bisht-portfolio.vercel.app/">
@@ -12,46 +12,43 @@
 </p>
 
 ---
+## 🧠 About Me  
 
-## 🧠 About Me
+I'm **Shailesh Singh Bisht** — a **Full Stack Web Developer** and **Game Designer/Developer**.  
+I love crafting **scalable systems, expressive UIs, and immersive gameplay loops**.  
 
-I'm **Shailesh Singh Bisht** — a **Full Stack Web Developer** and **Game Designer & Developer**.  
-I build fast, scalable web systems and games that are as expressive as they are playable.
-
-Whether it’s clean UI, secure backend APIs, or tight gameplay systems — I focus on **clarity, performance, and impact**.
+Whether it’s clean **front-end design**, secure **backend APIs**, or tight **gameplay mechanics**, I focus on **clarity, performance, and impact**.  
 
 ---
 
-## 💼 Tech Toolbox
+## 💼 Tech Toolbox  
 
 ### 🎨 Front-End Arsenal  
-![React Badge](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)
-![shadcn/ui Badge](https://img.shields.io/badge/-shadcn/ui-18181b?style=for-the-badge&logo=radixui&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)  
+![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)  
+![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)  
+![shadcn/ui Badge](https://img.shields.io/badge/-shadcn/ui-18181b?style=for-the-badge&logo=radixui&logoColor=white)  
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ### ⚙️ Back-End Backbone  
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongoose Badge](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![Mongoose Badge](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
+![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
 
 ### 🧱 DevOps in Action  
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
-### 🎮 Game Dev Stack  
-![Godot Badge](https://img.shields.io/badge/-Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SFML Badge](https://img.shields.io/badge/-SFML-074c75?style=for-the-badge&logo=sfml&logoColor=white)
-
----
+### 🎮 Game Dev & Modding Stack  
+![Godot Badge](https://img.shields.io/badge/-Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)  
+![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![SFML Badge](https://img.shields.io/badge/-SFML-074c75?style=for-the-badge&logo=sfml&logoColor=white)  
+![Modding Badge](https://img.shields.io/badge/-Game%20Modding-FF4757?style=for-the-badge&logo=modrinth&logoColor=white)  
 
 ## 🔥 Languages I Write In  
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,13 +83,13 @@ Whether it’s clean UI, secure backend APIs, or tight gameplay systems — I fo
 
 ## 📫 Contact Me  
 📧 [Email](mailto:shaileshsinghbisht0411@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [X (Twitter)](https://x.com/AdrianRorker) • [LeetCode](https://leetcode.com/u/shailesh_singh_bisht/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shailesh-singh-bisht-13b30b258/) • [X (Twitter)](https://x.com/AdrianRorker) • [LeetCode](https://leetcode.com/u/shailesh_singh_bisht/) • [Itch.io](https://shaileshbisht.itch.io/) • [Nexus Mods](https://next.nexusmods.com/profile/ShaileshBisht0411/mods)
 
 ---
 
 ## 🛠️ Skill Icons  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,shadcn,mongodb,mongoose,prisma,mysql,nodejs,express,postman,python,java,cpp,c,qt,docker,jenkins,selenium,git,unity,godot" alt="My Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,shadcn,mongodb,mongoose,prisma,mysql,nodejs,express,postman,python,java,cpp,c,qt,docker,jenkins,selenium,git,godot" alt="My Tech Stack Icons"/>
 </p>
 
 ---
