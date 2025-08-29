@@ -50,6 +50,8 @@ Whether it’s clean **front-end design**, secure **backend APIs**, or tight **g
 ![SFML Badge](https://img.shields.io/badge/-SFML-074c75?style=for-the-badge&logo=sfml&logoColor=white)  
 ![Modding Badge](https://img.shields.io/badge/-Game%20Modding-FF4757?style=for-the-badge&logo=modrinth&logoColor=white)  
 
+---
+
 ## 🔥 Languages I Write In  
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -89,7 +91,7 @@ Whether it’s clean **front-end design**, secure **backend APIs**, or tight **g
 
 ## 🛠️ Skill Icons  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,shadcn,mongodb,mongoose,prisma,mysql,nodejs,express,postman,python,java,cpp,c,qt,docker,jenkins,selenium,git,godot" alt="My Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,mongodb,prisma,mysql,nodejs,express,postman,python,java,cpp,c,qt,docker,jenkins,selenium,git,godot" alt="My Tech Stack Icons"/>
 </p>
 
 ---
