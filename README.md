@@ -24,31 +24,32 @@ Whether it’s clean **front-end design**, secure **backend APIs**, or tight **g
 ## 💼 Tech Toolbox  
 
 ### 🎨 Front-End Arsenal  
-![React Badge](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)  
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)  
-![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)  
-![shadcn/ui Badge](https://img.shields.io/badge/-shadcn/ui-18181b?style=for-the-badge&logo=radixui&logoColor=white)  
+![React Badge](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react) 
+![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js) 
+![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss) 
+![shadcn/ui Badge](https://img.shields.io/badge/-shadcn/ui-18181b?style=for-the-badge&logo=radixui&logoColor=white) 
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ### ⚙️ Back-End Backbone  
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![Mongoose Badge](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Mongoose Badge](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) 
 ![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
 
 ### 🧱 DevOps in Action  
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
 ### 🎮 Game Dev & Modding Stack  
-![Godot Badge](https://img.shields.io/badge/-Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)  
-![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SFML Badge](https://img.shields.io/badge/-SFML-074c75?style=for-the-badge&logo=sfml&logoColor=white)  
+![Godot Badge](https://img.shields.io/badge/-Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white) 
+![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SFML Badge](https://img.shields.io/badge/-SFML-074c75?style=for-the-badge&logo=sfml&logoColor=white) 
 ![Modding Badge](https://img.shields.io/badge/-Game%20Modding-FF4757?style=for-the-badge&logo=modrinth&logoColor=white)  
+
 
 ---
 
